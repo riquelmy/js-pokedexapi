@@ -12,6 +12,7 @@
 .pokemon.grass {background-image: linear-gradient(135deg, black 5%, green 80%);}
 .pokemon.bug{background-image: linear-gradient(135deg, black 5%, #88950c);}
 .pokemon.dark{background-image: linear-gradient(135deg, black 5%, #3e2d23);}
+.pokemon.ground{background-image: linear-gradient(135deg, black 5%, #522308);}
 .pokemon.dragon{background-image: linear-gradient(135deg, black 5%, #7763de);}
 .pokemon.electric{background-image: linear-gradient(135deg, black 5%, #d7a227);}
 .pokemon.fairy{background-image: linear-gradient(135deg, black 5%, #f3acf2);}
@@ -27,6 +28,7 @@
 .pokemon.steel{background-image: linear-gradient(135deg, black 5%, #aeafba);}
 .pokemon.water{background-image: linear-gradient(135deg, black 5%, #5ca5f5);}
 
+.pokemon .detail .types .type.ground{background-color: #522308;}
 .pokemon .detail .types .type.bug{background-color: #88950c;}
 .pokemon .detail .types .type.dark{background-color: #3e2d23;}
 .pokemon .detail .types .type.dragon{background-color: #7763de;}
