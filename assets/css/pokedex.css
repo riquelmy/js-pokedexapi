@@ -1,3 +1,5 @@
+/* CSS for the general style related properties of the pokedex */
+
 .pokemons {
     padding: 0;
     margin: 0;
@@ -8,7 +10,6 @@
 }
 
 .pokemon {
-    background: #14A06F;
     padding: 1rem;
     border-radius: 1rem;
     margin: 0.5rem;
@@ -31,7 +32,6 @@
 }
 
 .pokemon .detail .types .type {
-    background-color: #61e0c9;
     border-radius: 15px;
     color: white;
     padding: 0.125rem 0.25rem;
@@ -42,6 +42,7 @@
 .pokemon .poke_name {
     text-align: center;
     color: white;
+    text-transform: capitalize;
 }
 .pokemon .poke_name::after
 {
@@ -61,13 +62,16 @@
 }
 .pokemon .detail img {
     border-style: none;
-    max-width: 100%;
+    max-width: 90px;
     margin-left: auto;
     height: 90px;
     align-self: flex-end;
     transform: scalex(-1);
 }
 
+.type {
+    text-transform: capitalize;
+}
 
 @media screen and (min-width:380px) {
     .pokemons {

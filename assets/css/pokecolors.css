@@ -1,0 +1,49 @@
+/* CSS for the most specific parts of the pokemon */
+
+.ball {
+    background-image: url('/assets/css/whitepokeball.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.pokemon.fire {
+    background: #fb6c6c;
+}
+
+.pokemon.grass {background-image: linear-gradient(135deg, black 5%, green 80%);}
+.pokemon.bug{background-image: linear-gradient(135deg, black 5%, #88950c);}
+.pokemon.dark{background-image: linear-gradient(135deg, black 5%, #3e2d23);}
+.pokemon.dragon{background-image: linear-gradient(135deg, black 5%, #7763de);}
+.pokemon.electric{background-image: linear-gradient(135deg, black 5%, #d7a227);}
+.pokemon.fairy{background-image: linear-gradient(135deg, black 5%, #f3acf2);}
+.pokemon.fighting{background-image: linear-gradient(135deg, black 5%, #7e311e);}
+.pokemon.fire{background-image: linear-gradient(135deg, black 5%, #ec4510);}
+.pokemon.flying{background-image: linear-gradient(135deg, black 5%, #96a8f4);}
+.pokemon.ghost{background-image: linear-gradient(135deg, black 5%, #5d5daf);}
+.pokemon.ice{background-image: linear-gradient(135deg, black 5%, #93e3fc);}
+.pokemon.normal{background-image: linear-gradient(135deg, black 5%, #c6c0b9);}
+.pokemon.poison{background-image: linear-gradient(135deg, black 5%, #8d438e);}
+.pokemon.psychic{background-image: linear-gradient(135deg, black 5%, #ea487f);}
+.pokemon.rock{background-image: linear-gradient(135deg, black 5%, #b6a058);}
+.pokemon.steel{background-image: linear-gradient(135deg, black 5%, #aeafba);}
+.pokemon.water{background-image: linear-gradient(135deg, black 5%, #5ca5f5);}
+
+.pokemon .detail .types .type.bug{background-color: #88950c;}
+.pokemon .detail .types .type.dark{background-color: #3e2d23;}
+.pokemon .detail .types .type.dragon{background-color: #7763de;}
+.pokemon .detail .types .type.electric{background-color: #d7a227;}
+.pokemon .detail .types .type.fairy{background-color: #f3acf2;}
+.pokemon .detail .types .type.fighting{background-color: #7e311e;}
+.pokemon .detail .types .type.fire{background-color: #ec4510;}
+.pokemon .detail .types .type.flying{background-color: #96a8f4;}
+.pokemon .detail .types .type.ghost{background-color: #5d5daf;}
+.pokemon .detail .types .type.ice{background-color: #93e3fc;}
+.pokemon .detail .types .type.normal{background-color: #c6c0b9;}
+.pokemon .detail .types .type.poison{background-color: #8d438e;}
+.pokemon .detail .types .type.psychic{background-color: #ea487f;}
+.pokemon .detail .types .type.rock{background-color: #b6a058;}
+.pokemon .detail .types .type.steel{background-color: #aeafba;}
+.pokemon .detail .types .type.water{background-color: #5ca5f5;}
+.pokemon .detail .types .type.grass {background-color: green;}
+
+
+
