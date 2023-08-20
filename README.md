@@ -13,7 +13,7 @@ responsive webpage to an API REST (in this case, <a href="https://pokeapi.co/" t
 ## Overview
 
 The purpose of this project/challenge was to put into practice all the skills I learned so far. I was challenged to build a fully responsive 
-webpage (to exercise techniques such as mobile-first) and, simultaneously, integrate an API to the page I just created.
-<br>
+webpage (to exercise techniques such as mobile-first) and, simultaneously, integrate an API to the page I just created (each click on the **Next sequence button** is a http request to Pokedex API that is fully displayed on the page).
+<br><br>
 **Technologies/Tools used in it**: Git, Github, Node.js, CSS, HTML, JavaScript, Vscode, <a href="https://pokeapi.co/" target="_blank">Pokedex API</a>
 
